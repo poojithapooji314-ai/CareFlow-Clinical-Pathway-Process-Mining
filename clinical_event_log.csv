@@ -1,0 +1,19 @@
+CaseID,Activity,Timestamp,Doctor,Department,Duration_Days
+C001,Admission,2024-01-05 08:00:00,Dr. Smith,Oncology,0
+C001,Diagnosis,2024-01-05 10:30:00,Dr. Smith,Oncology,1
+C001,Lab Test,2024-01-05 14:00:00,Dr. Priya,Oncology,1
+C001,Treatment Planning,2024-01-06 09:00:00,Dr. John,Oncology,2
+C001,Therapy,2024-01-07 10:00:00,Dr. John,Oncology,5
+C001,Discharge,2024-01-10 11:00:00,Dr. Smith,Oncology,6
+C002,Admission,2024-01-06 08:00:00,Dr. Priya,Oncology,0
+C002,Diagnosis,2024-01-06 11:00:00,Dr. Priya,Oncology,1
+C002,Lab Test,2024-01-06 15:00:00,Dr. Priya,Oncology,1
+C002,Treatment Planning,2024-01-07 09:00:00,Dr. Smith,Oncology,2
+C002,Therapy,2024-01-08 10:00:00,Dr. Smith,Oncology,5
+C002,Discharge,2024-01-11 10:00:00,Dr. Priya,Oncology,6
+C003,Admission,2024-01-07 09:00:00,Dr. John,Oncology,0
+C003,Diagnosis,2024-01-07 10:00:00,Dr. John,Oncology,0
+C003,Lab Test,2024-01-07 13:00:00,Dr. Smith,Oncology,1
+C003,Treatment Planning,2024-01-08 10:00:00,Dr. Priya,Oncology,1
+C003,Therapy,2024-01-09 09:00:00,Dr. Priya,Oncology,4
+C003,Discharge,2024-01-12 10:00:00,Dr. John,Oncology,5
